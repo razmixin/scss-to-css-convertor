@@ -5,7 +5,7 @@ var sass = require('gulp-sass');
 
 sass.compiler = require('node-sass');
 
-// *** put your files in the styles/from directory and change the src url ***
+// *** put your files in the styles/from directory and change the 'src' url ***
 gulp.task('sass', function() {
   return gulp
     .src('./styles/from/bootstrap-rtl/bootstrap-rtl.scss')
