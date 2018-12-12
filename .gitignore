@@ -1,6 +1,2 @@
 # dependencies
 /node_modules
-
-# to\from directory
-/styles/from/**/*
-/styles/to/**/*
